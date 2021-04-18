@@ -1,14 +1,11 @@
-# Car_Rental-Website
+# Complete User Login & Registration system using PHP and MySQL database
 
-
-## Complete User Login & Registration system using PHP and MySQL database
-
-- version: 1.0.0
+version: 1.0.0
 
 ## Full Tutorial
 
-[On Youtube](-)
+[On Youtube](https://youtu.be/QxZxHUf7c_0)
 
 ## Authors
 
-[Ravella Abhinav](https://github.com/ravellaabhinav)
+[Elias Abdurrahman](https://github.com/eliasFsDev)
